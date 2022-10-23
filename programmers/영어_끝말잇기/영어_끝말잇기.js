@@ -9,17 +9,22 @@ const words = [
   'mother',
   'robot',
   'tank',
+  'hi',
 ];
 
 function solution(n, words) {
   let answer = [];
-  for (let i = 0; i < words.length; i++) {
-    if (words[i][words[i].length - 1] === words[i + 1][1]) {
-      console.log(words[0][words[0].length - 1], words[1][0]);
-    }
+  let turn = 1;
+
+  for (let i = 1; i < words.length; i++) {
+    let test =
+      words[i - 1].slice(-1) === words[i][0] &&
+      !words.slice(0, i).includes(words[i]);
+    if (i % n === 0) turn++;
+    if (!test) return [(i % n) + 1, turn];
   }
 
-  return answer;
+  return [0, 0];
 }
 
 console.log(solution(n, words));
