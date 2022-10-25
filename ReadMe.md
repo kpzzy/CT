@@ -15,3 +15,4 @@
 | 2     | [JadenCase](https://github.com/kpzzy/CT/tree/main/programmers/JadenCase)                                                                                                                     |
 | 2     | [최댓값과 최솟값](https://github.com/kpzzy/CT/tree/main/programmers/max_and_min)                                                                                                             |
 | 2     | [올바른 괄호](https://github.com/kpzzy/CT/tree/main/programmers/%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8)                                                                              |
+| 2     | [최솟값 만들기](https://github.com/kpzzy/CT/tree/main/programmers/%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0)                                                                   |
