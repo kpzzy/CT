@@ -16,3 +16,4 @@
 | 2     | [최댓값과 최솟값](https://github.com/kpzzy/CT/tree/main/programmers/max_and_min)                                                                                                             |
 | 2     | [올바른 괄호](https://github.com/kpzzy/CT/tree/main/programmers/%EC%98%AC%EB%B0%94%EB%A5%B8_%EA%B4%84%ED%98%B8)                                                                              |
 | 2     | [최솟값 만들기](https://github.com/kpzzy/CT/tree/main/programmers/%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0)                                                                   |
+| 2     | [이진 변환 반복하기](https://github.com/kpzzy/CT/tree/main/programmers/%EC%9D%B4%EC%A7%84_%EB%B3%80%ED%99%98_%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)                                           |
