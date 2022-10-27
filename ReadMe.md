@@ -18,3 +18,4 @@
 | 2     | [최솟값 만들기](https://github.com/kpzzy/CT/tree/main/programmers/%EC%B5%9C%EC%86%9F%EA%B0%92_%EB%A7%8C%EB%93%A4%EA%B8%B0)                                                                   |
 | 2     | [이진 변환 반복하기](https://github.com/kpzzy/CT/tree/main/programmers/%EC%9D%B4%EC%A7%84_%EB%B3%80%ED%99%98_%EB%B0%98%EB%B3%B5%ED%95%98%EA%B8%B0)                                           |
 | 2     | [다음 큰 숫자](https://github.com/kpzzy/CT/tree/main/programmers/%EB%8B%A4%EC%9D%8C_%ED%81%B0_%EC%88%AB%EC%9E%90)                                                                            |
+| 2     | [숫자 문자열과 영단어](https://github.com/kpzzy/CT/tree/main/programmers/%EC%88%AB%EC%9E%90_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC_%EC%98%81%EB%8B%A8%EC%96%B4)                                |
