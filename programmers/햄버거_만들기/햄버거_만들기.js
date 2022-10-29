@@ -3,17 +3,22 @@ const ingredient = [2, 1, 1, 2, 3, 1, 2, 3, 1, 2, 3, 1, 1, 2, 3, 1];
 // const ingredient = [1, 3, 2, 1, 2, 1, 3, 1, 2];
 
 function solution(ingredient) {
-  let str_ingredient = ingredient.join('').indexOf('1231');
   let answer = 0;
+  let box = [];
 
-  if (str_ingredient !== -1) {
-    while (true) {
-      let test = ingredient.join('').indexOf('1231');
+  for (let i = 0; i < ingredient.length; i++) {
+    box.push(ingredient[i]);
 
-      if (test === -1) break;
-
-      ingredient.splice(test, 4);
-
+    if (
+      box[box.length - 1] === 1 &&
+      box[box.length - 2] === 3 &&
+      box[box.length - 3] === 2 &&
+      box[box.length - 4] === 1
+    ) {
+      box.pop();
+      box.pop();
+      box.pop();
+      box.pop();
       answer++;
     }
   }
