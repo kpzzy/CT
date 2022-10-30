@@ -22,7 +22,7 @@ function solution(n, arr1, arr2) {
   }
   return answer;
 }
-console.log(8000 * 2800000);
+
 console.log(solution(n, arr1, arr2));
 
 // 비트연산자 정리해보기
