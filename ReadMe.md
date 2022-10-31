@@ -13,7 +13,7 @@
 | 1     | [숫자 문자열과 영단어](https://github.com/kpzzy/CT/tree/main/programmers/%EC%88%AB%EC%9E%90_%EB%AC%B8%EC%9E%90%EC%97%B4%EA%B3%BC_%EC%98%81%EB%8B%A8%EC%96%B4)                                |
 | 1     | [문자열 내 마음대로 정렬](https://github.com/kpzzy/CT/tree/main/programmers/%EB%AC%B8%EC%9E%90%EC%97%B4_%EB%82%B4_%EB%A7%88%EC%9D%8C%EB%8C%80%EB%A1%9C_%EC%A0%95%EB%A0%AC%ED%95%98%EA%B8%B0) |
 | 1     | [햄버거 만들기](https://github.com/kpzzy/CT/tree/main/programmers/%ED%96%84%EB%B2%84%EA%B1%B0_%EB%A7%8C%EB%93%A4%EA%B8%B0)                                                                   |
-| 1     | [신규 아이디 추천]()                                                                                                                                                                         |
+| 1     | [신규 아이디 추천](https://github.com/kpzzy/CT/tree/main/programmers/%EC%8B%A0%EA%B7%9C_%EC%95%84%EC%9D%B4%EB%94%94_%EC%B6%94%EC%B2%9C)                                                      |
 | 1     | [비밀 지도](https://github.com/kpzzy/CT/tree/main/programmers/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)                                                                                          |
 | 2     | [영어 끝말잇기](https://github.com/kpzzy/CT/tree/main/programmers/%EC%98%81%EC%96%B4_%EB%81%9D%EB%A7%90%EC%9E%87%EA%B8%B0)                                                                   |
 | 2     | [JadenCase](https://github.com/kpzzy/CT/tree/main/programmers/JadenCase)                                                                                                                     |
