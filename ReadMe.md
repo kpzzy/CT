@@ -24,3 +24,4 @@
 | 2     | [다음 큰 숫자](https://github.com/kpzzy/CT/tree/main/programmers/%EB%8B%A4%EC%9D%8C_%ED%81%B0_%EC%88%AB%EC%9E%90)                                                                            |
 | 2     | [가장 큰 수](https://github.com/kpzzy/CT/tree/main/programmers/%EA%B0%80%EC%9E%A5_%ED%81%B0_%EC%88%98)                                                                                       |
 | 2     | [짝지어 제거하기](https://github.com/kpzzy/CT/tree/main/programmers/%EC%A7%9D%EC%A7%80%EC%96%B4_%EC%A0%9C%EA%B1%B0%ED%95%98%EA%B8%B0)                                                        |
+| 2     | [피보나치 수](https://github.com/kpzzy/CT/tree/main/programmers/%ED%94%BC%EB%B3%B4%EB%82%98%EC%B9%98_%EC%88%98)                                                                              |
