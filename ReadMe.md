@@ -19,6 +19,7 @@
 | 1     | [비밀 지도](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EB%B9%84%EB%B0%80%EC%A7%80%EB%8F%84)                                                                                          |221031|
 | 1     | [신규 아이디 추천](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EC%8B%A0%EA%B7%9C_%EC%95%84%EC%9D%B4%EB%94%94_%EC%B6%94%EC%B2%9C)                                                      |221101|
 |1|[PCCP_기출문제 1번 동영상 재생기](https://github.com/kpzzy/CT/tree/main/programmers/level1/PCCP_%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C_1%EB%B2%88_%EB%8F%99%EC%98%81%EC%83%81_%EC%9E%AC%EC%83%9D%EA%B8%B0)|240911|
+|1|[추억점수](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EC%B6%94%EC%96%B5%EC%A0%90%EC%88%98)|240912|
 </details>
 
 <details>
