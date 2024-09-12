@@ -1,6 +1,6 @@
 function solution(name, yearning, photos) {
     var answer = []
-    var temp = [] [[],[],[]]
+    var temp = []
     const yearningObj = {}
     for(let i = 0; i < name.length; i++) {
         yearningObj[name[i]] = yearning[i]
