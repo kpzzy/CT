@@ -1,4 +1,8 @@
 ## 1일 1코딩테스트
+
+> 참여자 2명  
+[김희주](https://github.com/hee-ju-kim), [윤상돈](https://github.com/kpzzy)
+
 <details>
 <summary>레벨 1</summary>
 
