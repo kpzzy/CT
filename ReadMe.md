@@ -1,5 +1,10 @@
 ## 1일 1코딩테스트
 
+![GitHub last commit](https://img.shields.io/github/last-commit/kpzzy/CT)
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/kpzzy/CT)
+![GitHub top language](https://img.shields.io/github/languages/top/kpzzy/CT?color=yellow&logo=Java)
+
+
 > 참여자 2명  
 [김희주](https://github.com/hee-ju-kim), [윤상돈](https://github.com/kpzzy)
 
