@@ -30,6 +30,7 @@
 |1|[PCCP_기출문제 1번 동영상 재생기(윤상돈)](https://github.com/kpzzy/CT/tree/main/programmers/level1/PCCP_%EA%B8%B0%EC%B6%9C%EB%AC%B8%EC%A0%9C_1%EB%B2%88_%EB%8F%99%EC%98%81%EC%83%81_%EC%9E%AC%EC%83%9D%EA%B8%B0), [PCCP_기출문제 1번 동영상 재생기(김희주)](https://github.com/hee-ju-kim/programmers_node)|240911|
 |1|[추억점수](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EC%B6%94%EC%96%B5%EC%A0%90%EC%88%98)|240912|
 |1|[달리기경주](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EB%8B%AC%EB%A6%AC%EA%B8%B0_%EA%B2%BD%EC%A3%BC)|240917|
+|1|[로또의 최고순위와 최저순위](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EB%A1%9C%EB%98%90%EC%9D%98_%EC%B5%9C%EA%B3%A0%EC%88%9C%EC%9C%84%EC%99%80_%EC%B5%9C%EC%A0%80%EC%88%9C%EC%9C%84)|240919|
 </details>
 
 <details>
