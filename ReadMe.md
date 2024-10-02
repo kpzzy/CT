@@ -44,6 +44,7 @@
 |1|[성격 유형 검사하기(윤상돈)](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EC%84%B1%EA%B2%A9_%EC%9C%A0%ED%98%95_%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0) [성격 유형 검사하기(김희주)](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/006_%EC%84%B1%EA%B2%A9%20%EC%9C%A0%ED%98%95%20%EA%B2%80%EC%82%AC%ED%95%98%EA%B8%B0)|240920|
 |1|[명예의 전당(윤상돈)](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EB%AA%85%EC%98%88%EC%9D%98%EC%A0%84%EB%8B%B9) [명예의전당(김희주)]() |240924|
 |1|[예산(윤상돈)](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EC%98%88%EC%82%B0)  [예산(김희주)]()|240926|
+|1|[카드뭉치(윤상돈)](https://github.com/kpzzy/CT/tree/main/programmers/level1/%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98)[카드뭉치(김희주)](https://github.com/hee-ju-kim/programmers_node/tree/main/practice/018_%EC%B9%B4%EB%93%9C%EB%AD%89%EC%B9%98)|241002|
 </details>
 
 <details>
